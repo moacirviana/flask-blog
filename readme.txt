@@ -1,9 +1,10 @@
 instalar os pacotes para o tutorial app funcionar(forms,banco de dados)
 $ pip install flask-wtf
 $ pip install email_validator
-$ pip installl flask-sqlalchemy
+$ pip install flask-sqlalchemy
 $ pip install flask-login
 $ pip install flask-bcrypt
+$ pip install pillow
 
 Apos projeto criado, antes de executar, setar a seguinte variavel
 $ set FLASK_APP=flaskblog.py
