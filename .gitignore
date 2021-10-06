@@ -9,6 +9,7 @@ __pycache__/
 *.py[co]
 *.egg-info
 *.swp
+*.db
 
 build/
 dist/
