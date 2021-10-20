@@ -5,6 +5,7 @@ $ pip install flask-sqlalchemy
 $ pip install flask-login
 $ pip install flask-bcrypt
 $ pip install pillow
+$ pip install flask-email
 
 Apos projeto criado, antes de executar, setar a seguinte variavel
 $ set FLASK_APP=flaskblog.py
